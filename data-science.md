@@ -1,6 +1,6 @@
 # Resources for Data Science
 
-This website collects some resources for learning about data science-related topics, like data visualization, (Bayesian) statistics, machine learning, 
+This website collects some resources for learning about data science-related topics, like data visualization, (Bayesian) statistics, machine learning, software engineering and data science ethics. It is mainly a collection of things I've seen or found useful in either my learning, teaching or research, and makes no claim to any completeness. If you have interesting and/or useful things to add, I very much welcome a [pull request](https://github.com/dhuppenkothen/resources/pulls).  
 
 ## Data Science Ethics
 
