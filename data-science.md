@@ -76,6 +76,7 @@ Below are some resources for general data science related topics. There are a my
 ### Online Tutorials/Summer Schools
 * [scikit-learn](https://scikit-learn.org) is a Python library for machine learning that comes with a host of really good [tutorials](https://scikit-learn.org/stable/tutorial/index.html).
 * Similarly, [TensorFlow](https://www.tensorflow.org) also has a number of [tutorials](https://www.tensorflow.org/tutorials) to start out with.
+* [NeurIPS](https://neurips.cc) is a major machine learning conference that runs [tutorials](https://nips.cc/Conferences/2019/Schedule?type=Tutorial) on machine learning-related topics every year. Usually the videos of those tutorials can be found on YouTube. For example, [here's a list of 2018 tutorials](https://www.youtube.com/results?search_query=neurips+2018+tutorial). These tutorials are generally 2-4 hours long, and a good way to get an introduction into some state-of-the-art methods that might not have their own textbook yet. Note: before the conference was renamed in 2018, it ran under the very unfortunate name "NIPS" (in case you want to search for older tutorials on YouTube).
 
 ### Software Packages
 
