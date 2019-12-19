@@ -47,8 +47,11 @@ Below are some resources for general data science related topics. There are a my
 * Sivia: [Data Analysis: A Bayesian Tutorial](https://global.oup.com/academic/product/data-analysis-9780198568322): This is the book that taught me Bayesian statistics. I really like it for being fairly introductory, but good at building an intuition.
 * Gelman, Carlin, Stern, Dunson, Vehtari, Rubin: [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/): Invaluable reference, but I don't think I would recommend astronomers to try and learn Bayesian statistics from this book. I found it incomprehensible when I started (less so after reading Sivia).
 
-### Online Classes
-* 
+### Online Classes + Papers
+* von Toussaint: [Bayesian Statistics for Physics](https://link.aps.org/doi/10.1103/RevModPhys.83.943) is an introduction into Bayesian statistics for physicists
+* Hogg: [Probability Calculus for Inference](https://arxiv.org/abs/1205.4446) looks at probabilistic inference through the lens of dimensional analysis
+* Hogg, Foreman-Mackey: [Using Markov Chain Monte Carlo](https://arxiv.org/abs/1710.06068) is an introductory-level paper on MCMC.
+
 
 ### Online Tutorials/Summer Schools
 * Learn Bayesian Statistics with Legos in [this online tutorial](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
@@ -64,6 +67,7 @@ Below are some resources for general data science related topics. There are a my
 * James, Witten, Hastie, Tibshirani: [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/): I've not read this book, but it looks like a good overview of machine learning, and the PDF is available for download for free!
 * Bishop: [Pattern Recognition and Machine Learning]: also an introduction into machine learning from a statistical perspective, also with a [free PDF](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) online. I found this one hard to get into when I started reading it (the language is quite different from what I was used to), but it remains my favourite book to go back to.
 * Müller: [An Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do): This is a really good book to start out with if you're completely new to machine learning. Not a lot of maths, but a good way to build intuition. 
+* Rasmussen, Williams: [Gaussian Process for Machine Learning](http://www.gaussianprocess.org/gpml/) is a book specifically on Gaussian Processes, but the PDF is available online for free.
 
 ### Online Classes
 * [Applied Machine Learning](https://www.cs.columbia.edu/~amueller/comsw4995s19/) by [Andreas Müller](https://amueller.github.io) at Columbia University. Slides and videos are available online.
