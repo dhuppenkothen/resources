@@ -110,6 +110,8 @@ Below are some resources for general data science related topics. There are a my
 * I've run a number of visualization tutorials at various summer schools, so I've made a step-by-step [online version](https://huppenkothen.org/data-visualization-tutorial/) of that tutorial material. It's still a bit rough and in draft stage, so comments + fixes are welcome. :) 
 * The [Data Visualization Catalogue](https://datavizcatalogue.com) is a great resources that sorts types of visualizations by function. Great if you want inspiration how to best display your data.
 * The [Data Viz Project](https://datavizproject.com) does something very similar to the Data Visualization Catalogue.
+* [Data-To-Viz](https://www.data-to-viz.com) is another website to help you select a type of visualization, using a decision tree to help guide you.
+
 
 ### Software Packages
 * [matplotlib](): perhaps the most standard Python library for data visualization
