@@ -19,6 +19,6 @@ This document collects some resources on group facilitation, meeting design etc.
 
 * [Online Version of LS Conversation Cafe](https://docs.google.com/presentation/d/11YyEwJh9iIzisfUldWa3RcGk_mqFVwTIDYETwkBqTx0/edit#slide=id.g7382e4a61a_0_417) (presentation
 * [25/10 Crowdsourcing Online](https://docs.google.com/presentation/d/1qKEGC1W-88Plr3RqS5orr5CHzxanMTZDmgbJUwqgiio/edit#slide=id.g71e72f8c5a_59_6) (presentation)
-
+* [How to host a cocktail party on Zoom](https://medium.com/@mishaglouberman/how-to-run-a-zoom-cocktail-party-and-have-better-classes-conferences-and-meetings-too-dc2c5b58f8be)
 
 ## Hack Weeks + Hackathons
