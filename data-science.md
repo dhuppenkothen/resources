@@ -13,8 +13,9 @@ Any data science project (yes, even astronomy ones) should start with an assessm
 * The [ACM Fairness, Accountability and Transparency (ACM FAT) Conference](https://fatconference.org) happens every year and should have interesting papers on the topic
 * [Data & Society](https://datasociety.net) is a think tank dedicated to exploring the societal implications of the use of data. They have some highly interesting and informative stuff.
 * The [AI Now Institute](https://ainowinstitute.org) is an interdisciplinary center dedicated to exploring the social impact of Artificial Intelligence
-
+* [Teach Data Science Resources](https://teachdatascience.com/closing2020/): lots of resources for ethics in data science education
 ### Books
+* [Integrating Ethics within Machine Learning Courses](https://dl.acm.org/doi/10.1145/3341164): ACM Article
 
 There have been a number of books on the topic of the use and mis-use of data in recent years. Most of them focus on the ways data science can go wrong, but some offer an at least somewhat optimistic outlook. Here's an (incomplete) list:
 * Meredith Broussard: [Artificial Unintelligence](https://mitpress.mit.edu/books/artificial-unintelligence)
